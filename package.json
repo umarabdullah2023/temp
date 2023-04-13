@@ -3,7 +3,7 @@
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
-	"homepage": "http://gitname.github.io/react-gh-pages",
+	"homepage": "http://umarabdullah2023.github.io/testing",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
